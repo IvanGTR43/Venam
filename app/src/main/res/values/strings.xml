@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Venam</string>
+    <string name="welcomeLogin">Inicia Sesión</string>
+    <string name="telLogin">Telefono: </string>
+    <string name="passLogin">Contraseña: </string>
+    <string name="socialmLogon">Inicia con Redes Sociales</string>
+    <string name="buttonLogin">Registrar</string>
+    <string name="faceLogin">Facebook</string>
+    <string name="googleLogin">Google</string>
+    <string name="phoneloghint">Número de Teléfono</string>
+    <string name="passloghint">Contraseña</string>
+</resources>
